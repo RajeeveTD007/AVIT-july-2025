@@ -1,0 +1,12 @@
+Mini Projects Summary - Python Applications
+Project	Category	Key Concepts
+Object Detection (SSD)	CV / DL	Pre-trained model, OpenCV
+Text Generator (RNN)	NLP / DL	Sequences, LSTM
+Optimized CNN Classifier	DL	Augmentation, Adam, Dropout
+Sentiment Analyzer	NLP	Text processing, classification
+Face Mask Detector	CV / DL	Transfer learning, binary classification
+Digit Recognizer (MNIST)	DL	CNN, image classification
+Simple Chatbot (NLTK)	NLP / Rule-based	Tokenization, intent classification
+Color Detection Tool	Image Processing	Mouse events, color spaces
+Stock Price Predictor	ML / Time Series	Linear regression, trends
+Resume Matcher	NLP / ML	Text similarity, TF-IDF
